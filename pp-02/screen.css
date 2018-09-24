@@ -15,3 +15,17 @@ html {
   padding: 0 1em;
   background-image: url(cssbackground.png);
 }
+
+div.header{
+  font-weight: bold;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+}
+
+ul.quick-facts li{
+  display: list-item;
+  margin-left: 15px;
+  list-style-type: disc!important;
+}

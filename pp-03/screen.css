@@ -35,7 +35,8 @@ flex-direction: column-reverse;
 #three,
 #two,
 #one {
-  
+  height: 20vw;
+  width: 20vw;
 }
 
 @media screen and (min-width: 600px) {

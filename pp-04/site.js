@@ -5,4 +5,4 @@
   }
 
   document.querySelector('#doorbell').innerHTML = "<button id='doorbutton'>Click to Ring the Doorbell</button>";
-  document.querySelector
+  document.querySelector('#doorbutton').addEventListener('click', ringDoorbell);

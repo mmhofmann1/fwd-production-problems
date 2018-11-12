@@ -18,9 +18,14 @@ body {
   padding: 10%;
 }
 
-label {
+figcaption {
   padding: 1em 0;
   display: block;
+}
+
+#doorbutton {
+  height: 2em;
+  color: blue;
 }
 
 /* ===== LAYOUT STYLES ===== */

@@ -34,6 +34,7 @@ console.log('The value of x is:', x, 'It should be 5.');
 //  the global scope:
 
 function arrayEach(array, func) {
+  var i;
   for (i = 0; i < array.length; i++) {
     func(array[i]);
   }
